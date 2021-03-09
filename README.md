@@ -1,4 +1,5 @@
 # gypsyChamois
+環境構築
 ```
 git clone https://github.com/lil-shimon/gypsyChamois-back.git
 cd gypsyChamois
