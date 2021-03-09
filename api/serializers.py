@@ -1,6 +1,6 @@
 from rest_framework import serializers
 from .models import Task, Post
-from django.contrib.auth.model import User
+from django.contrib.auth.models import User
 
 
 class UserSerializer(serializers.ModelSerializer):
