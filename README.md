@@ -9,3 +9,8 @@ docker-compose up -d
 ```
 docker container exec -it gypsychamois_web_1 bash
 ```
+サーバ立ち上げ
+
+```
+ python manage.py runserver 0.0.0.0:8000
+```
