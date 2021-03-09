@@ -16,8 +16,12 @@ docker container exec -it gypsychamois_web_1 bash
 ```
 
 DB
+```
 APIURL + /admin
+```
 
 開発ユーザー情報
+```
 username: admin
 password: admin
+```
