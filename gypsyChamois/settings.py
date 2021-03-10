@@ -56,7 +56,6 @@ MIDDLEWARE = [
 
 CORS_ORIGIN_WHITELIST = [
     "http://localhost:3000",
-    'https://gypsy-chamois.herokuapp.com/'
 ]
 
 SIMPLE_JWT = {
