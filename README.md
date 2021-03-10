@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/lil-shimon/gypsyChamois-back.git
 cd gypsyChamois
+cp .env.example .env
 docker-compose up -d
 ```
 コンテナに入る
