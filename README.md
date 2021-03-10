@@ -35,7 +35,7 @@ password: admin
 
 # 本番環境情報
 
-[heroku]: https://gypsy-chamois.herokuapp.com/admin	"別環境へ移行予定あり"
+https://gypsy-chamois.herokuapp.com/admin
 
 
 
